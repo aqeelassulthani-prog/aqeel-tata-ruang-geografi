@@ -1,5 +1,6 @@
 # Tata Ruang dan Dinamikanya dalam Pembangunan Wilayah
 
-Animated geography presentation for GitHub Pages.
+Animated geography presentation for class use.
 
-Open the site with GitHub Pages once Pages is enabled for the `main` branch.
+Public site:
+https://aqeelassulthani-prog.github.io/aqeel-tata-ruang-geografi/
